@@ -1,0 +1,11 @@
+_ReSharper.WinRTXamlToolkit/
+Nuget/Content
+Nuget/Lib
+Nuget/Tools
+Nuget/msbuild.log
+Nuget/*.nupkg
+**/bin/
+**/obj/
+**/AppPackages/
+*.user
+*.suo
